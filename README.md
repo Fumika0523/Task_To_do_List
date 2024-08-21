@@ -43,7 +43,7 @@ This is a simple todo list application built with React and Material-UI. The app
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/PoonamChauhan229/Interview_Task_To_do_List.git
+   git clone https://github.com/Fumika0523/Task_To_do_List.git
    cd Interview_Task_To_do_List
    ```
 
@@ -59,8 +59,8 @@ This is a simple todo list application built with React and Material-UI. The app
    npm run dev
    ```
    This will start the development server on `http://localhost:5173`.
-   This is hosted at netlify on `https://todomui229.netlify.app/`
-
+   This is hosted at netlify on `https://todolist-task-23.netlify.app/`
+   
 
 
 ### Folder Structure
